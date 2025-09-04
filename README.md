@@ -11,7 +11,7 @@ It automates end-to-end scenarios for the APK located in `app/mda-1.0.13-15.apk`
 - - **Appium UIAutomator2 Driver** (required for Android automation)
 - **Node.js** (for Appium installation)
 - (Optional) **IntelliJ IDEA** for development
-- 
+
 > **Note:** You do NOT need to install Gradle manually. The project includes the Gradle Wrapper (`gradlew`/`gradlew.bat`).
 > **Note:** You must install the Appium UIAutomator2 driver. See below for instructions.
 
